@@ -1,0 +1,20 @@
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.Form1.resources
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\ADMIN\source\repos\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.Form1.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI3\TcpClient\obj\Debug\TcpClient.pdb
