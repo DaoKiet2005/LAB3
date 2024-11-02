@@ -1,0 +1,20 @@
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\bin\Debug\Server.exe.config
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\bin\Debug\Server.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\bin\Debug\Server.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Server.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Server.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB 3\Server\obj\Debug\Server.Form1.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\bin\Debug\Server.exe.config
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\bin\Debug\Server.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\bin\Debug\Server.pdb
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Server.Form1.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Server.exe
+C:\Users\ADMIN\Desktop\HK1 24-25\LẬP TRÌNH MẠNG CĂN BẢN\THỰC HÀNH\LAB3\LAB3_BAI1\Server\obj\Debug\Server.pdb
